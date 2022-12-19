@@ -3,3 +3,6 @@
 ### Задание 1. Решение простейших задач [[контест](https://contest.yandex.ru/contest/44222/enter/)]
 
 ### Задание 2. Решение простейших задач. Циклы [[контест](https://contest.yandex.ru/contest/44381/enter/)]
+
+### Задание 3. Решение простейших задач. Массивы [[контест](https://contest.yandex.ru/contest/44646/enter/)]
+
