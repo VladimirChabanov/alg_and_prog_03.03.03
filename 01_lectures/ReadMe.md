@@ -7,3 +7,5 @@
 ### Лекция 3. Типы данных  [[pdf]](./lecture_03/presentation.pdf) [[pptx]](./lecture_03/presentation.pptx) [[стрим]](https://youtu.be/ooHjYNFZObQ)
 
 ### Лекция 4. Типы данных II  [[pdf]](./lecture_04/presentation.pdf) [[pptx]](./lecture_04/presentation.pptx) [[стрим]](https://youtu.be/lBnlPAuRfRc)
+
+### Лекция 5. Функции  [[pdf]](./lecture_05/presentation.pdf) [[pptx]](./lecture_05/presentation.pptx) [[стрим]](https://youtu.be/H5xyu7nLToc)
