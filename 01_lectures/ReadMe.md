@@ -11,3 +11,5 @@
 ### Лекция 5. Функции  [[pdf]](./lecture_05/presentation.pdf) [[pptx]](./lecture_05/presentation.pptx) [[стрим]](https://youtu.be/H5xyu7nLToc)
 
 ### Лекция 6. Функции II  [[pdf]](./lecture_06/presentation.pdf) [[pptx]](./lecture_06/presentation.pptx) [[стрим]](https://youtu.be/Xy_6nCSvxGw)
+
+### Лекция 7. ООП. Инкапсуляция  [[pdf]](./lecture_07/presentation.pdf) [[pptx]](./lecture_07/presentation.pptx) [[стрим]](https://www.youtube.com/live/sD454bJfX88?feature=share)
