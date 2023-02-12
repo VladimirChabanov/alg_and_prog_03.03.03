@@ -6,6 +6,8 @@
 
 ### Задание 3. Решение простейших задач. Массивы [[контест](https://contest.yandex.ru/contest/44646/enter/)]
 
+### Задание 7-8. Функции и классы [[контест](https://contest.yandex.ru/contest/45686/enter/)]
+
 <br>
 
 ### Просроченные задания [[контест](https://contest.yandex.ru/contest/44649/enter/)]
